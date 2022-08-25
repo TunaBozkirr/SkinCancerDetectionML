@@ -14,7 +14,7 @@ for img in glob.glob("./foto/*.png"):
 
 l = len(cv_img)
 
-
+#döngü yardımı ile dolaşılır.
 for i,image in enumerate(cv_img):
     
     image_name = image_namelist[i]
