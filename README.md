@@ -1,4 +1,4 @@
-# Skin-Cancer-Diagnosis-System-From-Immages-With-Machine-Learning
+# Skin-Cancer-Diagnosis-System-From-Images-With-Machine-Learning
 We work on machine learning methods to detect skin cancer. 
 In this project, the ABCD method was used  on the skin cancer detection as by dermatologists. 
 For Machine Learninng KNN algorithm was used the nearest neighbor algorithm to determine whether the disease is sick or healthy.
